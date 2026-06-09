@@ -1,2 +1,17 @@
-# snake-game-python
-A Snake Game built with Python and Pygame. This project includes snake movement, food generation, score tracking, and game-over detection.
+# Snake Game
+
+A simple Snake Game built using Python and Pygame.
+
+## Features
+- Snake movement
+- Food generation
+- Score tracking
+- Collision detection
+
+## Requirements
+
+pip install pygame
+
+## Run
+
+python game.py
